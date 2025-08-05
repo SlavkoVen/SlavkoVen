@@ -1,4 +1,4 @@
-# Yaroslav Ven — Resume
+# Yaroslav Venher — Resume
 
 ## 👨‍💻 About Me
 Junior DevOps Engineer with 5+ years in QA, experience in CI/CD, Docker, GitLab, AWS, and monitoring tools.
