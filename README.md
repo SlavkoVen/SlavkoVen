@@ -1,16 +1,19 @@
-## Hi there 👋
+# Yaroslav Ven — Resume
 
-<!--
-**SlavkoVen/SlavkoVen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+Junior DevOps Engineer with 5+ years in QA, experience in CI/CD, Docker, GitLab, AWS, and monitoring tools.
 
-Here are some ideas to get you started:
+## 💼 Experience
+- QA Engineer — Embedded Devices (5 років)
+- DevOps Pet Project: GitLab CI/CD, Docker, Selenium Grid, Allure, Prometheus, Grafana
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Skills
+- Linux CLI, Python (UI Testing), Bash
+- Git, Terraform, VirtualBox, GitHub Actions
+
+## 🎓 Education
+- BSc in Electrical Engineering and Automation
+
+## 🌍 Languages
+- English: Intermediate+
+- Ukrainian: Native
