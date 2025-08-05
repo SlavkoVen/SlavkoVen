@@ -12,6 +12,7 @@ Junior DevOps Engineer with 5+ years in QA, experience in CI/CD, Docker, GitLab,
 - Git, Terraform, VirtualBox, GitHub Actions
 
 ## 🎓 Education
+- DevOps та Kubernetes. Практичний інтенсив+
 - BSc in Electrical Engineering and Automation
 
 ## 🌍 Languages
